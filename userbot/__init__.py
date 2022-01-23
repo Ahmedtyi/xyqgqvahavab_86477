@@ -30,9 +30,9 @@ JMVERSION = "5.2.0"
 
 
 if Config.UPSTREAM_REPO == "Jmthon-iq":
-    UPSTREAM_REPO_URL = "https://github.com/JMTHON-AR/JM-THON"
+    UPSTREAM_REPO_URL = "https://github.com/Ahmedtyi/xyqgqvahavab_86477"
 elif Config.UPSTREAM_REPO == "jmthon-ar":
-    UPSTREAM_REPO_URL = "https://github.com/JMTHON-AR/JM-THON"
+    UPSTREAM_REPO_URL = "https://github.com/Ahmedtyi/xyqgqvahavab_86477"
 else:
     UPSTREAM_REPO_URL = Config.UPSTREAM_REPO
 
